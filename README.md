@@ -9,7 +9,7 @@
 - Function
 
 
-<img width="500" alt="Simulator Screen Shot" src="https://user-images.githubusercontent.com/56839789/73960883-ed203400-490b-11ea-910e-847a5de08668.gif"> 
+<img width="500" alt="Simulator Screen Shot" src="https://user-images.githubusercontent.com/56839789/74023826-daa40a00-49a0-11ea-8a66-a1a270913ed1.gif"> 
 
 # Risk Dice
 
