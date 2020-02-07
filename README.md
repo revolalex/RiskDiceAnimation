@@ -1,9 +1,11 @@
 # RiskDiceAnimation
-# Risk-Dice-Swift-IOS-Animation-dice
 
 
 # Swift, IOS
+Animtion
 
+- UIButton Extension
+- Animation Button
 - Animation UIimage
 - Array
 - Function
@@ -13,8 +15,9 @@
 
 # Risk Dice
 
-This projet is personnal, i love to play Risk, and i wanted to learn animation in Swift
-So when you press the attack or defense button the dice will start to be animate
+This projet is personnal, i love to play Risk, and i wanted to learn animation in Swift. <br>
+Created a UIButton Extension with function for animation (shake, pulse, flash).<br>
+So when you press the attack or defense button the buttons and the dices will start to be animate.<br>
 
 
 
