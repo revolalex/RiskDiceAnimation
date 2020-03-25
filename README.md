@@ -2,7 +2,7 @@
 
 
 # Swift, IOS
-Animtion
+Animation
 
 - UIButton Extension
 - Animation Button
